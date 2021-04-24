@@ -1,5 +1,3 @@
-package academy.learnprogramming;
-
 import academy.learnprogramming.Ceiling;
 import academy.learnprogramming.Sofa;
 import academy.learnprogramming.Tv;
