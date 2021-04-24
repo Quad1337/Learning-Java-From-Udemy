@@ -1,8 +1,3 @@
-import academy.learnprogramming.Ceiling;
-import academy.learnprogramming.Sofa;
-import academy.learnprogramming.Tv;
-import academy.learnprogramming.Wall;
-
 public class Livingroom {
     private String name;
     private Wall wall1;
